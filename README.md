@@ -12,22 +12,22 @@ A detailed report explaining the methodology, tools used, and analysis of result
 
 
 ## Libraries Used
-**pandas**
+- **pandas**
 
-**numpy**
+- **numpy**
 
-**scikit-learn**
+- **scikit-learn**
 
-**matplotlib**
+- **matplotlib**
 
-**seaborn**
+- **seaborn**
 
 
 ## ML Models Implemented
-**Linear Regression**
+- **Linear Regression**
 
-**Logistic Regression**
+- **Logistic Regression**
 
-**Decision Trees**
+- **Decision Trees**
 
-**KNN**
+- **KNN**
